@@ -7,8 +7,8 @@ for continual learning ([link](https://arxiv.org/abs/1809.10635))
 
 ## Requirements
 The current version of the code has been tested with:
-* `pytorch 0.4.1`
-* `torchvision 0.2.1`
+* `pytorch 1.1.0`
+* `torchvision 0.2.2`
 
 
 ## Running the experiments
@@ -72,7 +72,7 @@ For more information on `visdom` see <https://github.com/facebookresearch/visdom
 ### Citation
 Please consider citing our papers if you use this code in your research:
 ```
-@article{vandeven2018three,
+@article{vandeven2019three,
   title={Three scenarios for continual learning},
   author={van de Ven, Gido M and Tolias, Andreas S},
   journal={arXiv preprint arXiv:1904.07734},
